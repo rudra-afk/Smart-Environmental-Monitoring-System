@@ -1,0 +1,5 @@
+Flask==3.0.3
+adafruit-blinka
+adafruit-circuitpython-ahtx0
+adafruit-circuitpython-bmp280
+adafruit-circuitpython-mcp3xxx
