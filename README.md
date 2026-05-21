@@ -1,2 +1,2 @@
 # First-Repo
-This is for java project
+This is python project using raspberry-pi for smart environmental monitoring
